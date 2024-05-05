@@ -760,7 +760,7 @@ College.
                                 }, color: "white"
                             }}>
                                 <Box sx={{ marginBottom: "10%" }}>
-                                    <h4>Frontend Developer Traniee</h4>
+                                    <h4>Frontend Developer </h4>
                                     <h6>Fabevy Institute, Tenkasi</h6>
                                 </Box>
                                 <Box sx={{ marginBottom: "10%" }}>

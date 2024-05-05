@@ -898,15 +898,15 @@ College.
                                 , justifyContent: "space-evenly"
                             }}>
                                 <Box>
-                                    <Box component="a" href='https://manojeyam26.artstation.com/' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><FaArtstation sx={{ fontSize: "40px", borderRadius: "50%", }} /></Box>
+                                    <Box component="a" href='https://manojeyam26.artstation.com/' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><FaArtstation sx={{ fontSize: "50px !important" }} /></Box>
                                 </Box>
                                 <Box>
                                     <Box component="a" sx={{ textDecoration: "none", color: "white", cursor: "pointer" }} target='blank' href='linkedin.com/in/manojeyam26'><CiLinkedin style={{ fontSize: "45px", borderRadius: "100%", }} /></Box>
                                 </Box>
                             </Box>
                             <Box sx={{ margin: "0px 10px" }}>
-                                <h4 style={{ color: "white" }}>All Rights Reserved and Designed by </h4>
-                                <h4 style={{ color: "white", textAlign: "center" }}>🚀Aaru Anbu</h4>
+                                <h4 style={{ color: "white" }}>All Rights Reserved </h4>
+                                <h4 style={{ color: "white", textAlign: "center" }}>Manojeyam</h4>
                             </Box>
                         </Box>
                     </Box>

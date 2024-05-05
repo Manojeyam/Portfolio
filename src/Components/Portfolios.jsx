@@ -30,7 +30,7 @@ import reactweb from "./Img/reactweb.png"
 import redbus from "./Img/redbus.png"
 import mentor from "./Img/mentor.png"
 import backcolor from "./Img/backcolor.png"
-import resumes from "./Img/aaruanbu.pdf"
+import resumes from "./Img/Manojeyam_Resume.pdf"
 import maya from './Img/maya.png'
 import substancrance from './Img/substance-painter.png'
 import unreal from './Img/unreal.png'

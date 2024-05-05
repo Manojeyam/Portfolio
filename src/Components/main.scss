@@ -351,11 +351,11 @@ border-radius: 20px;
     color: #000000;
     transition: all 0.5s ease-in;
   }
-  .lasta a {
+  .lasta .newjhover {
     border-radius: 20px;
     font-size: 50px;
   }
-  .lasta a:hover {
+  .lasta a:hover .newjhover{
     transition: all 0.5s ease-in;
     box-shadow: 0 0 10px black;
   }

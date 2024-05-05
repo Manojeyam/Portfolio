@@ -9,7 +9,7 @@ import { CiLocationOn } from "react-icons/ci";
 import { MdOutlineForwardToInbox } from "react-icons/md";
 import { BsTelephoneOutboundFill } from "react-icons/bs";
 // import './assets/css/fonts.css';
-import GitHubIcon from '@mui/icons-material/GitHub';
+import { FaArtstation } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 import { Avatar, List, Skeleton, Card, Switch, Image } from 'antd';
 import { BsDownload } from "react-icons/bs";
@@ -882,14 +882,14 @@ College.
                             }, fontWeight: "700"
                         }}>
                             <Box sx={{ color: "white", paddingBottom: "25px" }}>
-                                <Box>11/45,Nayinar kovil Street,
+                                <Box>12/67, Ramaswamy kovil Street,
                                     <Box>Kallurani,</Box>Pavoorchatram-627808
                                     ,Tenkasi-Dt.</Box>
                             </Box>
                             <Box title="Send Mail" sx={{ paddingBottom: "25px" }}>
-                                <Box sx={{ color: "white", }} component="a" href='mailto:aaruanbu001@gmail.com'>aaruanbu001@gmail.com </Box>
+                                <Box sx={{ color: "white", }} component="a" href='mailto:manojeyam1234@gmail.com'>manojeyam1234@gmail.com </Box>
                             </Box>
-                            <Box title="Call" sx={{ paddingTop: "15px" }}><Box component="a" href='tel:+917530028405'>+91 7530028405 </Box> </Box>
+                            <Box title="Call" sx={{ paddingTop: "15px" }}><Box component="a" href='tel:+917395974805'>+91 7395974805 </Box> </Box>
                         </Box>
                         <Box>
                             <Box className="lasta" sx={{
@@ -898,10 +898,10 @@ College.
                                 , justifyContent: "space-evenly"
                             }}>
                                 <Box>
-                                    <Box component="a" href='https://github.com/aaruanbu' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><GitHubIcon sx={{ fontSize: "40px", borderRadius: "50%", }} /></Box>
+                                    <Box component="a" href='https://manojeyam26.artstation.com/' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><FaArtstation sx={{ fontSize: "40px", borderRadius: "50%", }} /></Box>
                                 </Box>
                                 <Box>
-                                    <Box component="a" sx={{ textDecoration: "none", color: "white", cursor: "pointer" }} target='blank' href='https://www.linkedin.com/in/aaru-anbu-p-440a63241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><CiLinkedin style={{ fontSize: "45px", borderRadius: "100%", }} /></Box>
+                                    <Box component="a" sx={{ textDecoration: "none", color: "white", cursor: "pointer" }} target='blank' href='linkedin.com/in/manojeyam26'><CiLinkedin style={{ fontSize: "45px", borderRadius: "100%", }} /></Box>
                                 </Box>
                             </Box>
                             <Box sx={{ margin: "0px 10px" }}>

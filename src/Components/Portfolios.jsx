@@ -784,19 +784,19 @@ College.
                                     xs: "19px", sm: "20px", md: "30px", xl: "32px"
                                 }
                             }}>
-                                <Box >
-                                    <h4>2023</h4>
+                                <Box>
+                                    <h4>2024</h4>
                                 </Box>
-                                <Box sx={{ marginTop: "10%" }}>
+                                {/* <Box sx={{ marginTop: "10%" }}>
                                     <h4>2021-2023</h4>
-                                </Box>
+                                </Box> */}
                                 <Box sx={{ marginTop: "10%" }}>
-                                    <h4>2018-2021</h4>
+                                    <h4>2019-2022</h4>
                                 </Box>
-                                <Box sx={{ marginTop: "10%" }}>
+                                {/* <Box sx={{ marginTop: "10%" }}>
                                     <h4> 2016-2018</h4>
 
-                                </Box>
+                                </Box> */}
                             </Box>
                             <Box sx={{
                                 display: "flex", alignItems: "center", justifyContent: "center", width: {

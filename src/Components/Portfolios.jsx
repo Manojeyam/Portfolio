@@ -760,21 +760,21 @@ College.
                                 }, color: "white"
                             }}>
                                 <Box sx={{ marginBottom: "10%" }}>
-                                    <h4>Frontend Developer </h4>
-                                    <h6>Fabevy Institute, Tenkasi</h6>
+                                    <h4>3D Artist and Video Editor</h4>
+                                    <h6>NEXDEMY IT Training Pvt Ltd, Chennai - 600129</h6>
                                 </Box>
-                                <Box sx={{ marginBottom: "10%" }}>
+                                {/* <Box sx={{ marginBottom: "10%" }}>
                                     <h4>MBA</h4>
                                     <h6>Kamarajar COLLEGE</h6>
-                                </Box>
+                                </Box> */}
                                 <Box sx={{ marginBottom: "10%" }}>
-                                    <h4>BBA</h4>
+                                    <h4>BSc Physics</h4>
                                     <h6>Kamaragar Govt Arts College,Surandai</h6>
                                 </Box>
-                                <Box sx={{ marginBottom: "10%" }}>
+                                {/* <Box sx={{ marginBottom: "10%" }}>
                                     <h4>HSC</h4>
                                     <h6>Govt.Hr.Sec.school,P.K.Valasai</h6>
-                                </Box>
+                                </Box> */}
                             </Box>
 
                             <Box sx={{

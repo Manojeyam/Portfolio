@@ -898,7 +898,7 @@ College.
                                 , justifyContent: "space-evenly"
                             }}>
                                 <Box>
-                                    <Box component="a" href='https://manojeyam26.artstation.com/' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><FaArtstation style={{ fontSize: "50px !important",boxShadow:'none !important' }} /></Box>
+                                    <Box component="a" href='https://manojeyam26.artstation.com/' target='blank' sx={{ textDecoration: "none", color: "white", cursor: "pointer" }}><FaArtstation style={{ fontSize: "45px",boxShadow:'none !important' }} /></Box>
                                 </Box>
                                 <Box>
                                     <Box component="a" sx={{ textDecoration: "none", color: "white", cursor: "pointer" }} target='blank' href='linkedin.com/in/manojeyam26'><CiLinkedin className='newjhover' style={{ fontSize: "45px", borderRadius: "100%", }} /></Box>

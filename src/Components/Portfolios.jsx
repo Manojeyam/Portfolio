@@ -765,7 +765,7 @@ College.
                                 </Box>
                                 <Box sx={{ marginBottom: "10%" }}>
                                     <h4>MBA</h4>
-                                    <h6>Einstein College of Engineering,Tirunelveli-12</h6>
+                                    <h6>Kamarajar COLLEGE</h6>
                                 </Box>
                                 <Box sx={{ marginBottom: "10%" }}>
                                     <h4>BBA</h4>
